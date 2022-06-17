@@ -1,0 +1,3 @@
+my.domain.        IN  SOA dns.my.domain. email.my.domain. 2015082541 7200 3600 1209600 3600
+
+test.my.domain.    IN  A   10.0.0.1
